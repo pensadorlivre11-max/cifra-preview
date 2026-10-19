@@ -1,0 +1,19 @@
+{
+  "name": "CIFRA — Relatos & Segredos",
+  "short_name": "CIFRA",
+  "description": "Descubra e compartilhe relatos em áudio.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
